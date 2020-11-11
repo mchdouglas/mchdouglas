@@ -1,6 +1,6 @@
 # Michael Douglas
 
-CTO @wiseinovacao.
+CEO @wiseinovacao.
 
 [![Instagram Badge](https://img.shields.io/badge/-@mhdouglas?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://instagram.com/mhdouglas)](https://instagram.com/mhdouglas) 
 [![Linkedin Badge](https://img.shields.io/badge/-MichaelDouglas?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mchdouglas/)](https://www.linkedin.com/in/mchdouglas/) 
